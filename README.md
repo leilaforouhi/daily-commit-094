@@ -1,4 +1,4 @@
-def merge_lists(list1, list):
+def merge_lists(list1, list2):
     return list1 + list2
 
 if __name__ == "__main__":
